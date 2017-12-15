@@ -1,0 +1,17 @@
+org/activiti/custom/engine/identity/CustomUserQuery.class
+org/activiti/custom/security/CurrentUserService.class
+org/activiti/custom/security/domain/GroupProfile.class
+org/activiti/custom/security/impl/UserStaticDao.class
+org/activiti/custom/spring/CustomGroupEntityManager.class
+org/activiti/custom/ProcessEngineConfig.class
+org/activiti/custom/dao/GroupDao.class
+org/activiti/custom/identity/CustomUser.class
+org/activiti/custom/identity/CustomGroup.class
+org/activiti/custom/spring/CustomUserEntityManager.class
+org/activiti/custom/ProcessEngineConfig$1.class
+org/activiti/custom/dao/UserDao.class
+org/activiti/custom/security/impl/GroupStaticDao.class
+org/activiti/custom/engine/identity/CustomUserQuery$1.class
+org/activiti/custom/security/domain/UserProfile.class
+org/activiti/custom/security/impl/CurrentUserServiceStaticImpl.class
+org/activiti/custom/engine/identity/CustomGroupQuery.class
