@@ -1,0 +1,17 @@
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/dao/UserDao.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/spring/CustomGroupEntityManager.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/security/CurrentUserService.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/security/domain/UserProfile.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/security/domain/GroupProfile.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/security/impl/UserStaticDao.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/dao/GroupDao.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/security/impl/CurrentUserServiceStaticImpl.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/security/impl/GroupStaticDao.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/engine/identity/CustomUserQuery.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/spring/CustomUserEntityManager.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/engine/identity/CustomGroupQuery.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/spring/CustomUserManagerFactory.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/identity/CustomGroup.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/identity/CustomUser.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/ProcessEngineConfig.java
+/Volumes/data/workspace/techbros/projects/activiti-Custom/src/main/java/org/activiti/custom/spring/CustomGroupManagerFactory.java
